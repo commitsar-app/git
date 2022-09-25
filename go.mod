@@ -1,6 +1,6 @@
 module github.com/aevea/git/v3
 
-go 1.16
+go 1.19
 
 require (
 	github.com/aevea/magefiles v0.0.0-20200424121010-0004d5a7a2fe
